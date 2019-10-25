@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="5.css" type="text/css"?>
+<students>
+<student>
+<usn>4VV16CS001</usn>
+<name>abc</name>
+<colg>vvce</colg>
+<branch>cse</branch>
+<year>2016</year>
+<email>abc@gmail.com</email>
+</student>
+<student>
+<usn>4VV16CS002</usn>
+<name>def</name>
+<colg>vvce</colg>
+<branch>cse</branch>
+<year>2016</year>
+<email>def@gmail.com</email>
+</student>
+<student>
+<usn>4VV16CS003</usn>
+<name>pqr</name>
+<colg>vvce</colg>
+<branch>cse</branch>
+<year>2016</year>
+<email>pqr@gmail.com</email>
+</student>
+</students>
+
+

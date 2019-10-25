@@ -1,0 +1,20 @@
+*{
+text-align:center;
+display:block;
+}
+
+students,student{
+background-color:yellow;
+
+}
+
+name,email,colg,branch,year{
+color:red;
+font-size:20px;
+}
+
+usn {
+font-size:30px;
+color:black;
+}
+
