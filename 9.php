@@ -43,7 +43,7 @@ foreach($states1 as $state)
   {
   $statesArray[$i] = ($state);
   $i = $i + 1;
-  echo "The state begins with k and ends with s is ".$state."<br>";
+  echo "The state begins with a is ".$state."<br>";
   }
  }
  
